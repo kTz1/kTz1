@@ -14,11 +14,11 @@
 
 ###
 
-⦿ Self-taught web developer passionate about modern, scalable, and user-friendly applications.
-⦿ Experienced with React, Next.js, TypeScript, Tailwind CSS, and other modern tools.
-⦿ Focused on writing clean, performant, and maintainable code.
-⦿ Enthusiastic about intuitive UI/UX and thoughtful digital experiences.
-⦿ Committed to continuous learning and improving through new technologies and best practices.
+⦿ Self-taught web developer passionate about modern, scalable, and user-friendly applications.<br>
+⦿ Experienced with React, Next.js, TypeScript, Tailwind CSS, and other modern tools.<br>
+⦿ Focused on writing clean, performant, and maintainable code.<br>
+⦿ Enthusiastic about intuitive UI/UX and thoughtful digital experiences.<br>
+⦿ Committed to continuous learning and improving through new technologies and best practices.<br>
 
 ###
 
