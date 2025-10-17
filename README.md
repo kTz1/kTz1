@@ -10,17 +10,15 @@
 
 ###
 
-<!--<br clear="both">-->
-
 <img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd4djFqZHhrdzh3enJ2b2dweHZ6N2wzYXF5bGQybjdnam1xOW1sbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9P6EzVR5a5jR2ARgX/giphy.gif"  />
 
 ###
 
-⦿ Self-taught web developer passionate about modern, scalable, and user-friendly applications.<br>
-<br>⦿ Experienced with React, Next.js, TypeScript, Tailwind CSS, and other modern tools.<br>
-<br>⦿ Focused on writing clean, performant, and maintainable code.<br>
-<br>⦿ Enthusiastic about intuitive UI/UX and thoughtful digital experiences.<br>
-<br>⦿ Committed to continuous learning and improving through new technologies and best practices.
+⦿ Self-taught web developer passionate about modern, scalable, and user-friendly applications.
+⦿ Experienced with React, Next.js, TypeScript, Tailwind CSS, and other modern tools.
+⦿ Focused on writing clean, performant, and maintainable code.
+⦿ Enthusiastic about intuitive UI/UX and thoughtful digital experiences.
+⦿ Committed to continuous learning and improving through new technologies and best practices.
 
 ###
 
