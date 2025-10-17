@@ -2,7 +2,7 @@
 
 ###
 
-🌐  **`Passionate Web Developer | Turning ideas into interactive, well-crafted digital products`**
+🌐 **`Passionate Web Developer | Turning ideas into interactive, well-crafted digital products`**
 
 ###
 
@@ -10,9 +10,9 @@
 
 ###
 
-<br clear="both">
+<!--<br clear="both">-->
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd4djFqZHhrdzh3enJ2b2dweHZ6N2wzYXF5bGQybjdnam1xOW1sbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9P6EzVR5a5jR2ARgX/giphy.gif"  />
+<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd4djFqZHhrdzh3enJ2b2dweHZ6N2wzYXF5bGQybjdnam1xOW1sbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9P6EzVR5a5jR2ARgX/giphy.gif"  />
 
 ###
 
@@ -30,7 +30,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,ts,tailwind,redux,vite,vercel,threejs,vscode,npm,git,github,nodejs,express,mongodb,arduino)](https://skillicons.dev)
 
-
 ###
 
 ![kTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kTz1&show_icons=true&theme=gruvbox)
@@ -45,6 +44,7 @@
 </picture>
 
 ###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kTz1.kTz1&"  />
 </div>
