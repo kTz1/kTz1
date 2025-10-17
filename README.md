@@ -18,7 +18,7 @@
 ⦿ Experienced with React, Next.js, TypeScript, Tailwind CSS, and other modern tools.<br>
 ⦿ Focused on writing clean, performant, and maintainable code.<br>
 ⦿ Enthusiastic about intuitive UI/UX and thoughtful digital experiences.<br>
-⦿ Committed to continuous learning and improving through new technologies and best practices.<br>
+⦿ Committed to continuous learning and improving through new technologies and best practices.
 
 ###
 
@@ -30,8 +30,8 @@
 
 ###
 
-![kTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kTz1&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kTz1&layout=compact&theme=gruvbox)
+![kTz's GitHub stats](https://github-readme-stats-hazel-alpha-12.vercel.app/api?username=kTz1&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats-hazel-alpha-12.vercel.app/api/top-langs/?username=kTz1&layout=compact&theme=gruvbox)
 
 ###
 
