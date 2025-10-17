@@ -1,189 +1,50 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Catalin
-===============================================================================================================================
+<h1 align="left">⚡️ Catalin Simon</h1>
 
-Web Developer | UI/UX
----------------------
+###
 
-I am a web developer passionate about UI/UX, dedicated to creating user-friendly, visually appealing websites and applications.
+🌐  **`Passionate Web Developer | Turning ideas into interactive, well-crafted digital products`**
 
-* 🌍  I'm based in Onesti, Romania 🇷🇴
-* 🧠  I'm learning everything JavaScript
+###
+
+<h2 align="left">👨🏻‍💻 About me</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd4djFqZHhrdzh3enJ2b2dweHZ6N2wzYXF5bGQybjdnam1xOW1sbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9P6EzVR5a5jR2ARgX/giphy.gif"  />
+
+###
+
+⦿ Self-taught web developer passionate about modern, scalable, and user-friendly applications.<br>
+<br>⦿ Experienced with React, Next.js, TypeScript, Tailwind CSS, and other modern tools.<br>
+<br>⦿ Focused on writing clean, performant, and maintainable code.<br>
+<br>⦿ Enthusiastic about intuitive UI/UX and thoughtful digital experiences.<br>
+<br>⦿ Committed to continuous learning and improving through new technologies and best practices.
+
+###
+
+<h2 align="left">🧰 Skill Stack</h2>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,ts,tailwind,redux,vite,vercel,threejs,vscode,npm,git,github,nodejs,express,mongodb,arduino)](https://skillicons.dev)
 
 
-### Skills
+###
 
+![kTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kTz1&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kTz1&layout=compact&theme=gruvbox)
 
-<p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-      width="36"
-      height="36"
-      style="padding:50px"
-      alt="JavaScript"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-      width="36"
-      height="36"
-      alt="TypeScript"
-    />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
-      width="36"
-      height="36"
-      alt="VS Code"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-      width="36"
-      height="36"
-      alt="HTML5"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-      width="36"
-      height="36"
-      alt="React"
-    />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
-      width="36"
-      height="36"
-      alt="NextJs"
-    />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-      width="36"
-      height="36"
-      alt="CSS3"
-    />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
-      width="36"
-      height="36"
-      alt="Sass"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-      width="36"
-      height="36"
-      alt="TailwindCSS"
-    />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
-      width="36"
-      height="36"
-      alt="Material UI"
-    />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
-      width="36"
-      height="36"
-      alt="Redux"
-    />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
-      width="36"
-      height="36"
-      alt="Vite"
-    />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-      width="36"
-      height="36"
-      alt="NodeJS"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-      width="36"
-      height="36"
-      alt="MongoDB"
-    />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-      width="36"
-      height="36"
-      alt="Express"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-      width="36"
-      height="36"
-      alt="Figma"
-    />
-  </a>
-  <a
-    href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg"
-      width="36"
-      height="36"
-      alt="Arduino"
-    />
-  </a>
-  <a href="https://apple.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg"
-      width="36"
-      height="36"
-      alt="MacOS"
-    />
-  </a>
-</p>
-<br/>
-<a href="http://www.github.com/kTz1">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kTz1&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true"
-    alt="kTz1's GitHub stats"
-  />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/kTz1" align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kTz1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages"
-  />
-</a>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kTz1/kTz1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kTz1/kTz1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kTz1/kTz1/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kTz1.kTz1&"  />
+</div>
