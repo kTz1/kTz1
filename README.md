@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd4djFqZHhrdzh3enJ2b2dweHZ6N2wzYXF5bGQybjdnam1xOW1sbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9P6EzVR5a5jR2ARgX/giphy.gif"  />
+<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd4djFqZHhrdzh3enJ2b2dweHZ6N2wzYXF5bGQybjdnam1xOW1sbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9P6EzVR5a5jR2ARgX/giphy.gif" />
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,ts,tailwind,redux,vite,vercel,threejs,vscode,npm,git,github,nodejs,express,mongodb,arduino)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,ts,tailwind,redux,vite,vercel,threejs,vscode,npm,git,github,nodejs,express,mongodb,arduino)
 
 ###
 
@@ -44,5 +44,5 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kTz1.kTz1&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kTz1.kTz1&" />
 </div>
