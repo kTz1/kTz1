@@ -30,7 +30,7 @@
 
 ###
 
-![kTz's GitHub stats](https://github-readme-stats-hazel-alpha-12.vercel.app/api?username=kTz1&show_icons=true&theme=gruvbox)
+![kTz's GitHub stats](github-readme-stats-hazel-alpha-12.vercel.app/api?username=kTz1&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats-hazel-alpha-12.vercel.app/api/top-langs/?username=kTz1&layout=compact&theme=gruvbox)
 
 ###
